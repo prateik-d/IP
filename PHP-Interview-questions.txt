@@ -1,0 +1,35 @@
+------- Basic of HTML, JS, CSS --------
+What are media query
+What are the breakpoints
+Selectors of CSS
+________________________________________________________
+
+
+1. What is constructor and its purpose
+2. What is class and object.
+3. What is interface
+4. What are Abstract Classes and Methods?
+5. What is a Namespace in PHP?
+6. Methods of API
+7. Authentication in API
+8. Payment Gateway integration
+9. Knowledge about GIT
+10. How can we get the IP address of the client?
+11. How can you enable error reporting in PHP?
+12. What are Traits?
+13. What are SQL Injections, how do you prevent them and what are the best practices?
+14. Why would you use === instead of ==
+15. .htaccess file
+16. ternary operator
+
+
+---------Database----------
+1. What is INDEXing in MYSQL
+2. What is View in MYSQL
+3. What are different keys present in DB
+4. What are different relationships that we define for tables.
+5. Different between PK, UK, FK
+6. What is BLOB Datatype
+7. Explain DDL,DML,DCL etc.
+8. How to get the count of duplicate column in mysql
+
