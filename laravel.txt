@@ -1,0 +1,712 @@
+Candidate Name: Kajal Sahu
+Interviewer name: Javed-Nikunj
+Interview Questions:
+Question 1  :  Tell me about your projects and roles and responsibilities
+Question 2  :  Overloading and OverRiding Question
+Question 3  :  Do we use the Overloading function now ?	
+Question 4  :  What Is interface and how do we use it?
+Question 5 :   What is indexing in SQL
+Question 6 :   Difference between Char and Varchar 
+Question 7  :  Special Function of braintree apart from other payment gateway. The unique one.
+Question 8 :  Limit of Indexing
+Question 9 :  Can we store the image in DB only, not project folder and S3 bucket. The physical path and can access from anywhere
+Question 10 : Traits 
+Question 11:  what is Middleware
+Question 12 : What is Service provider
+Question 13 :  what is Dependency Injection
+Question 14 : Primary key ,Foreign key
+Question 15 : What is Namespace
+Question 16:  What is  Final Class 
+Question 17 : How do you restrict class to be overridden ?
+Question 18 : Explain about the Request Life Cycle ?
+Question 19:  What is Service Container
+Question 20 : Middleware can filter the HTTP request or command request as well ?
+Question 21 : Is it necessary to mention all the functions in the interface or we can not mention all the functions there but use later.
+Question 22 : Which Laravel version do you work with ? 
+Question 23 : Other method of injecting the functions apart from setter and constructor
+Question 24 : Sql Commands ,Explain DDL,DML,DCL etc.
+Question 25 : Do you know how to write SQL queries to get datas and perform operations without using Eloquent
+Question 26 : What is SIP formula, EMI interest Formula , FD Formula (project related question).
+
+
+
+Candidate Name: Amresh Kumar
+ Ramesh-Mukesh
+Interview Questions
+
+Tell me about yourself and how long have you been working in neosoft?
+ What is migrations ? how can we update the key using migrations?
+How can we integrate the cart functionalities in laravel without using any package?
+What changes come between latest and previous version of laravel?
+What is mvc ?
+How many types of errors in php? Explain it
+What is difference between create and save in laravel
+What is service container?
+What is dependency injection?
+How to specify which field is primary key in model in laravel?
+How to get the count of duplicate column in mysql
+How to find the 4th highest salary in mysql
+How to delete last records and give the latest records in mysql?
+Give you the real time scenario and tell you  how to solve the problem
+Difference between fillable and guarded in model in laravel
+What is the difference between query builder and eloquent?
+https://stackoverflow.com/questions/38391710/laravel-eloquent-vs-query-builder-why-use-eloquent-to-decrease-performance 
+What is eloquent?
+What is seeder? Why it is used?
+Difference between primary key and unique key?
+Why do we use indexing?
+Explain your most complex project in which you are facing challenges ?
+Tell me some git command?
+If it produces error while pushing code to the branch how to resolve it?
+
+
+
+Candidate Name: Hareram Patil
+Rahul-Anil
+Interview Questions:-
+
+1. What is MailChimp?
+2. If you don't want to send notification to the same user at the same time then what techniques will you use in mailchimp?
+3. What is your role to implement RazorPay?
+4. How will you confirm that your payment is secure and successfully completed after returning the response from RazorPay or Paypal?
+5. What is the D3 chart?
+6. Difference between chart and D3 chart?
+7. How did you use Dropbox API and for what purpose did you use it?
+8. What is the repository pattern?
+9. Explain complete request flow in laravel.
+10. What are api.php, web.php and channels.php files in laravel?
+11. Have you created any custom middleware and how?
+12. What is the best way to create APIs?
+13. In a jquery file you created 4 ajax requests then which will complete first?
+14. If your payment is pending and after 1 hour it is successful then how will you manage status and send notification to the users?
+15. How will you manage the hot fix?
+16. Where you will create hot fix branch?
+17. What is Trait?
+18. What authentication techniques you used in API?
+19. What three parts of JWT?
+20. Is signature encrypted in JWT?
+21. What is accessors and mutators in laravel?
+22. What is collections in laravel?
+
+
+Candidate Name: Ashish Nandankar
+Mukesh - Umesh
+Interview Questions:-
+
+1. Tell me about yourself and how long have you been working in neosoft?
+2. Tell me something about your project? 
+3. what is Middleware?
+4. What is razorpay payment gateway? 
+5. How payment gateway works?
+6. What is the difference between query builder and eloquent?
+7. What is eloquent?
+8. What is OOP and how PHP is an object-oriented language?
+9. What is a Namespace in PHP?
+10. How can we integrate the cart functionalities in laravel without using any package?
+11. What changes come between latest and previous version of laravel?
+12. How to specify which field is primary key in model in laravel?
+13. How to get the count of duplicate column in mysql ?
+14. How to find the 4th highest salary in mysql ?
+15. what are the example of sorting algorithm?
+16. Give the some examples of bubble sort algorithm.
+17. What is Trait? 
+
+Candidate Name: Avadhut Vagare
+Rahul-Anil
+Interview Questions:-
+
+Request life cycle
+What is middleware?
+Which are api authentication you know about?
+Http response status codes?
+Socket programming?
+Http response status codes:401,402,403,404
+Eloquent methods
+document.ready() in jquery
+Use cases of jquery in our projects
+Custom exception in php
+Difference between redis and mysql?
+How to create rest api steps should follow?
+Artisan commands you know about?
+Migration commands
+
+
+
+Candidate Name: Priyanka Deshmukh
+pranali - Umesh
+Interview Questions:-
+1.Introduce yourself?
+2.Routing in Codelgniter?
+3.How many routing files in laravel use of each?
+4.which two functions used for display error in php?
+5.Middleware in laravel?
+6.Hooks,library,helpers difference in library and helper in codelgniter?
+7.What is composer ?
+9.How to create rest api in laravel and what steps should follow?
+10.Service container in laravel?
+11.One puzzle type question that is not related to programming ?
+12.Type of http request and explain each?
+13 Csrf token?
+14 Explain Project with Database ?
+
+Candidate Name: Priyanka Deshmukh
+Mukesh - Ramesh
+Interview Questions:-
+
+
+Tell me about yourself and how long have you been working in neosoft?
+Tell me about your project roles and responsibility
+How to find the 5th highest salary in mysql ?
+What is migration, how to migrate particular migration ?
+What is Api? Which api technique have you used ?
+How many types of aggregate function ?
+Transaction and trigger in mysql
+Git commands
+What is middleware?
+How Jwt works?
+What to do composer dump-autoload
+Have you created helper/package in laravel
+Dependency injection
+Model attributes in laravel like primary key, timestamp, created_at, updated .
+Redis server
+Give you many scenario in the sql
+Difference between first or get
+How to change existing column in laravel migration ?
+Caching in laravel
+How to delete duplicate records in mysql except first entry
+Does laravel support caching? Have you ever used caching?
+How can i create alias for class in laravel
+Brief discussion on jwt token passport, algorithms.
+Basic auth in rest apis
+
+
+
+
+
+Candidate Name: Aniruth G
+Ashish Yadav
+
+Interview Questions:-
+1.where are you from
+2.have you worked on mumbai location
+3.tell about yourself
+4.how long you are working neosoft
+5.what are the web storage
+6.What is HOC
+7.what is context API
+8.problem statement for pairs values form Array list and count number of paired values only
+9.problem statement for change nested object values of state from reactJS
+
+Candidate Name: Nainsi kumari
+Rahul
+Interview Questions:
+1)Tell me about your self and your project
+2)What is inheritance
+3)What is interface.
+4)If we not using interface then how can we use multiple inheritance
+5)What is JWT and how it work.
+6)What is rsa algorithm ,is it possible to encrypt digital signature
+7)What is facade.
+8)What is helper
+9)How route file know that which routing will be call
+10)What is queue ,which queue use in laravel
+11)What is What is eloquent? And what is difference between eloquent and sql query
+12)What is soft delete and how to soft delete column created
+13)Difference between fillable and guarded in model in laravel
+14)Design pattern in laravel
+15)What is accessors and mutators in laravel?
+16)latest php version
+17)what is difference between == and ==== in php
+18)what is difference between current laravel and previous laravel
+19)how to write test case in laravel
+
+ 
+
+
+
+
+Candidate Name: Santosh Shrma
+Javed-Nikunj
+
+Interview Questions:-
+1.Tell me about your self and your project details
+2.what is php and laravel.
+3.which version use in php with laravel 6.0.
+4.what is indexing and how many type of indexing,how to work of indexing.
+5.what is primary key and we have create index in primary key.
+6.what is challenging task in your project. And how to implement.
+7.what is eloquent and how to work internally.
+8. What is queue.
+9. What is memory management.
+10.what is debugger and which tool you are using.
+11.what is the cookie and session.and where is store cookie and session.
+12.How to destroy session.
+13.what is memory optimization.
+14.Request life cycle in laravel.
+15.what is join in laravel and how to define row query.the where is show joining sql query in   laravel.
+16. What is ,Explain DDL,DML,DCL , with differences.
+17.what is migration.and how many type of migration.
+18.What is a qsl engine? And how many type of engine.
+19.what is multi inheritance and how to achive.
+20.what is char and varchar and differences.
+21.we have login my site then delete cookie so your are login or not.
+22.what is service provider.
+23.what is service container.
+24.how many data store in session and cookie.
+25.how to save image in database.
+26.what is differences between merge and pull and how to solve conflict.
+
+
+Candidate Name: Manjul Thapliyal
+Interviewer Name: Rahul
+
+Self Intro
+Which is better framework php or Laravel.
+What are the differences between laravel and Yii.
+Which framework would you prefer to create apis. Yii or Laravel
+What is web.php and api.php
+What is channel.php
+If while making payment the user closes his/her payment window what will happen ?
+How will you make sure that the call back url passed while making any payment has not been altered with.
+Difference between set and data in mysql.
+Request life cycle in laravel.
+
+
+
+
+
+
+
+
+Candidate Name : Shivaprasad Shirasangi 
+Interviewer Name : Vivek and Karan 
+
+1 . Shortly introduce yourself
+2.  Explain projects you have done
+3.  Life cycle of Request in laravel
+4 . given array write the sorting program for array and explanation how it works
+5.  What is Hashing and its types ?
+6.  How do you convert text into hash text ? and why do we need it ?
+7.  What is encryption and decryption ?
+8. What is bootstrapping in Laravel ?
+9 . how we create custom packages in laravel .
+10. Where do we define a custom package ? and is it loaded only defining in composer.json ?
+11. What are facades ?
+12 . Explain service container
+13 . What is dependency injection ?
+14 . Explain design patterns .
+15. Passport authentication in laravel 
+16. What is the difference between ORM and Query builder ?
+17. What is an active record ?
+18. difference between hashing and encryption, decryption
+19 . Difference between authentication and authorization 
+20. which is the best project till now you have done and why ?
+21. What is throttling?
+22. What are micro services ?
+23. Can we be able to Write a custom  service Provider ? and how ?
+  
+Candidate Name: Prajakta Gadre
+Interviewer name: Javed-Nikunj
+Interview Questions:
+1.Project related questions.
+2.What is ORM?
+3.questions related to csrf.
+4.what is middleware?
+5.What is traits?
+6.migrations
+7.what is service provider?
+8.how do we secure an API?
+9.MYSQL storage engines
+10.can you use MYISAM in mysql?
+11.overloading,overriding
+12.what is indexing?
+12.dependency injection?
+13.Primary key,unique key,foregin key?
+14.Namespaces in laravel
+15.order by,group by with some scenario
+16.Http method?
+17.can we use GET to insert record?
+18 .Encryption & hashing
+
+
+Candidate Name : Avishkar shewale
+Interviewer Name : Vivek and Karan
+
+1) Self introduction
+2) How long have you been working in neosoft?
+3) Explain Project.
+4) Life cycle of Request in laravel.
+5) Program sorting array value without using built.
+
+
+
+
+Candidate Name : Khushaldas berva
+Interviewer Name : Mukesh and Ramesh
+
+
+Tell me about yourself and how long have you been working in neosoft?
+Tell me about your project roles and responsibility
+How to find the 5th highest salary in mysql ?
+What is migration, how to migrate particular migration ?
+What is Api? Which api technique have you used ?
+How many types of aggregate function ?
+Transaction and trigger in mysql
+Request life cycle of laravel
+Git commands
+What is middleware?
+What is queue ? and alternative of queue in laravel
+Scheduling in laravel.
+Model attributes in laravel like primary key, timestamp, created_at, updated .
+Difference between save and create
+When to use firstOrFail.
+Accessor and mutator
+Dependency injection
+How many types of join and elaborate it
+Http response codes 
+How many types of request available in laravel?
+What to do composer dump-autoload
+Have you created helper/package in laravel
+How to change enum type using migration in laravel
+Have you ever solved error on production and which file you check first while getting error on production
+Difference between primary key and unique key ?
+Does php support method overloading ?
+What is eloquent? Difference between query builder and eloquent
+How Jwt works?
+Request life cycle of laravel .
+Traits and how can we use trait ?
+Can we use select query while transaction is running ?
+Difference between fillable and guarded in model in laravel ?
+Is middleware applied on console request too ?
+What’s new in laravel ?
+Give you many scenario in the sql
+Constrains in sql
+Redis server
+How to change database name except change in .env ?
+How many default database we have in database.php ?
+Have you worked with read and write permission database
+How query will be executed in laravel?
+Does laravel support caching? Have you ever used caching?
+How can i create alias for class in laravel ?
+How to delete duplicate records in mysql ?
+Can we use where clause with aggregate functions?
+Difference between first or get
+How to change existing column in laravel migration ?
+Caching in laravel
+Request life cycle of laravel
+Magic functions in php
+
+
+Candidate Name : Arpan Sharma
+Interviewer Name : Vivek and Karan
+
+1) Self introduction
+
+3) tell me about your projects
+
+4) Life cycle of Request in laravel.
+
+5) Program reverse string value without using built.
+
+6) What is ORM & Advantages of using ORM
+
+7) What are traits?
+what is Soft delete & why we writte use SoftDeletes in models and what is this  and where 
+It’s created 
+
+9) how we use soft delete 
+
+10) CRUD operations 
+
+11) what is Soft delete & why we writte use SoftDeletes in models and what is this  and where 
+It’s created 
+
+12) Explain Your last project and what which laravel packages you used in this project 
+
+13) Razorpay payment gateway integration how you use this how to install this package what is 
+     this installation command
+ 
+
+
+
+
+
+
+
+Candidate Name : Ruturaj Nimbalkar
+Interviewer Name : Umesh-Rikhil
+
+1 .  Shortly introduce yourself
+2.   Explain the last  project you have done
+3.   Life cycle of Request in laravel
+4 .  given array write the sorting program for array and explanation how it works
+5.   How many types of request available in laravel?
+6.   How many types of join and elaborate it
+7    what is stored procedure and there type
+8.   difference between stored procedure and function
+9.   Http method?
+10  What is web.php and api.php
+11  Give you many scenario in the sql
+12  Can we be able to Write a custom  service Provider ? and how ?
+13   difference between empty and isset in php and which is better
+14   what is service provider?
+15   What changes come between 4.2 and 4.7version of php?
+16   what is challenging task in your project. And how to implement.
+17  How route file know that which routing will be call
+18  what is difference between == and ==== in php
+19  How to find the 4th highest salary in mysql
+20  on which port php run
+21  which is faster ternary operator or ?? in laravel
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Candidate name:Tejaswini 
+Interviewer name : Javed-Nikunj
+
+1. which php and laravel version use.
+2. what is interface.
+3 what is trait and difference b/w traits and helper function.
+4. Access Specifier.
+5. what is multithreading?
+6. What is MySQL collection?
+7. what is overloading and overriding.
+8. magic method in php
+10. how much data stored in session.
+12. if the cookies is off then how to login in website.
+13. what is stored procedure and functions.
+14 what is transactions.
+15. what is service provider.
+16 what is service container.
+17. Given many scenario in the sql.
+18 dependency injection.
+
+
+
+
+
+Candidate name:Abhishek Singh 
+Interviewer name : Umesh Sagoria-Pranali
+
+
+1. Self introduction 
+2. Explain your hardest project.
+3. Problems faced in that project.
+4. How you overcome with that problems.
+5. Explain your latest project.
+6. Total number of project done in laravel.
+7. Which laravel version you are currently working
+8. What is restful api
+9. Type of request we use on restful api and explain it
+10. Difference between $ and $$
+11 What are magic method and why we use it
+12. Difference between include & require.
+13. Difference between unset and unlink.
+14. Error Reporting on php 
+15.Hooks in CI.
+16. How to load models in CI.
+17. Difference between helpers and library in Ci
+18 What is routing.
+19. What is composer.
+20. What is artisan.
+21. What are route files in laravel.
+
+
+
+Candidate Name: Alok vishwakarma
+Umesh Sagoria-Pranali
+
+Interview Questions:-
+
+Describe about yourself and what was role in your project.
+Tell about major practical achievement in your project
+What is PHP error  and how many types of error
+Which method apply to enable error in PHP
+What is eloquent ORM in laravel
+What is CI in codeigniter
+Which method apply to load model in codeigniter
+What is migration in laravel
+What is composer in laravel
+Difference b/w require and include in PHP
+Difference b/w unset and unlink
+      12.	What is artisan in laravel
+      13. What is API and name how many type of API used
+      14. What is JWT and how it works
+      15.  What is web.php and api.php in laravel
+ 
+
+
+
+Candidate name: Augustin
+Interviewer name : Umesh & Anil
+
+1.self introduction
+2.laravel migration
+3.custom middleware 
+4.add new value with enum datatype with migration & production server
+5.laravel architecture
+6.resource usage
+7.is there any use of resource folder while making API
+8.indexing in sql
+9.join and usage of all
+10.find 3 salary
+11.razoypay integration
+12.razoypay webhooks
+13.given logic program for asscending order
+14.use of try catch block
+15.use of commit and rollback fucntion in sql
+16.how to handle bulk data to add new filed while execution time
+17.What is accessors and mutators in laravel?
+18.Type of http request and explain each?
+19.Http response status codes:401,402,403,404
+20.working on API
+21.what is artisan 
+22.collection and type
+
+
+Candidate name:sabina Ansari
+Interviewer name : Javed-Nikunj
+
+1.Self introduction
+2.which type of project is done.
+3.Difficult module in your project.
+4.what is function overloading and php supports function overloading
+5.what is session and cookie
+6.what is middleware and how to create custom middleware in laravel
+7.what is use name in routes
+8.what is facades.
+9.what is service provider
+10.how to reduce memory usage in laravel
+11.what sql statements
+12.what is indexing in sql  
+13.what is multiple inheritance
+
+
+
+Candidate Name:- Vikas Salekar
+Interviewer name : Vivek-Mukesh
+1:- self Introduction
+2:- Question about regarding projects and which one is a better project in Carrere and why?
+3:- Difference between CodeIgniter and laravel and which one is best? and why?
+4:- what is newly updated in laravel latest version.
+5:- what is laravel migration and how does it performs the operation behind the migrate 
+command.
+6:- how to alter data in migration and how to enum data update in migration.
+7:- any library used to update data in migration?
+8:- laraval request life cycle?
+9:- laravel eloquent? and what is the difference between eloquent and quey builder which one is 
+better, why ?
+10:- what is eager loading and lazy loading how it's perform?
+11:- what is the difference between get() and first() method in laravel query?
+12:- what is a composer and why it is used? what is composer.json and composer lock file ?
+13:- what is the difference between "composer update" and "composer require" and "composer 
+install"?
+14:- if we do not define any primary key in the model and in the database my primary key is 
+"examplekey" then how operation perform?
+15:- what is git and what is basic commands of gits ?
+16:- php programing question
+	$array = [1,2,3,4,5];
+	
+	o/p should be the [5,1,2,3,4];
+ 
+17:- mysql query questions
+	-how to find 3 largest salary
+	-how to remove duplicate records and keep the first one
+	-how to find out duplicate records with count
+18:- what is Jwt and how it works?
+
+
+Candidate Name: Lalit Tiwari
+Interviewer name: Javed-Nikunj
+Interview Questions:
+Question 1  :  Tell me about your projects and roles and responsibilities
+Question 2  :  Overloading and OverRiding Question
+Question 5 :   What is indexing in SQL
+Question 6 :  Difference between Char and Varchar 
+Question 9 :  Can we store the image in DB & which data type we will use to store the image in DB.
+Question 10 : Traits 
+Question 11 : What is a Service Container?
+Question 12 :  what is Dependency Injection
+Question 13 : Sql Commands ,Explain DDL,DML,DCL etc.
+Question 14 : What is Eloquent & why it is needed.
+Question 15 : What is a Query builder & which is fast Eloquent Or Query Builder.
+Question 16 : What is polymorphism?
+Question 17 : What is late binding?
+Question 18 : Accessor & Mutator?
+Question 19 : Session & Cookies?
+Question 20: Magic method in PHP?
+Question 21: Type of SQL Engine & difference between MyIsam & InnoDB?
+Question 22: Eager Loading & Lazy Loading & how can we use it?
+Question 23: Scope variable in php?
+Question 23: Can you use static variable & method out of the class, if yes then how & if no then tell me reason?
+
+Candidate Name : Sibasankar Bhoi
+Interviewer Name : Umesh-
+
+1 .  Shortly introduce yourself
+2.   Details about last  project you have done
+3.   Life cycle of Request in laravel
+4 .  given array write the sorting program for array and explanation how it works 
+5.   How many types of request available in laravel?
+6.   How many types of join and elaborate it
+7    what is stored procedure and there type
+8.   What is store procedure
+9.   Http methods?
+10  What is web.php and api.php
+11  join query in the sql with example
+12  Can we be able to Write a custom  service Provider ? and how ?
+13   what is service provider?
+14   latest features in laravel?
+15  prime number related program
+16  how triggers works
+17 different types of sorting algorithm program
+18 questions on laravel new features
+19 which PHP framework is faster and why
+20 create custom provider
+21 facades
+
+
+Candidate Name : Kiran Deore
+Interviewer Name : Mukesh and Ramesh
+
+How to find the 3rd highest salary in mysql ?
+What is migration, how to migrate particular migration ?
+What is Api? Which api technique have you used ?
+Request life cycle of laravel
+Git commands
+What is middleware?
+What is queue ? and alternative of queue in laravel
+Model attributes in laravel like primary key, connection, fillable and gaurded.
+Dependency injection
+How many types of join and elaborate it
+What to do composer dump-autoload
+How to change enum type using migration in laravel
+Have you ever solved error on production and which file you check first while getting error on production
+What is eloquent? Difference between query builder and eloquent
+How Jwt works?
+Traits and how can we use trait ?
+Can we use select query while transaction is running ?
+Difference between fillable and guarded in model in laravel ?
+Is middleware applied on console request too ?
+Constrains in sql
+Redis server
+How many default database we have in database.php ?
+Have you worked with read and write permission database
+How query will be executed in laravel?
+Does laravel support caching? Have you ever used caching?
+How to delete duplicate records in mysql ?
+Can we use where clause with aggregate functions?
+How to change existing column in laravel migration ?
+
