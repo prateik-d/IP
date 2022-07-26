@@ -1,6 +1,4 @@
-Candidate Name: Kajal Sahu
-Interviewer name: Javed-Nikunj
-Interview Questions:
+
 Question 1  :  Tell me about your projects and roles and responsibilities
 Question 2  :  Overloading and OverRiding Question
 Question 3  :  Do we use the Overloading function now ?	
@@ -30,12 +28,9 @@ Question 26 : What is SIP formula, EMI interest Formula , FD Formula (project re
 
 
 
-Candidate Name: Amresh Kumar
- Ramesh-Mukesh
-Interview Questions
 
 Tell me about yourself and how long have you been working in neosoft?
- What is migrations ? how can we update the key using migrations?
+What is migrations ? how can we update the key using migrations?
 How can we integrate the cart functionalities in laravel without using any package?
 What changes come between latest and previous version of laravel?
 What is mvc ?
@@ -59,11 +54,6 @@ Explain your most complex project in which you are facing challenges ?
 Tell me some git command?
 If it produces error while pushing code to the branch how to resolve it?
 
-
-
-Candidate Name: Hareram Patil
-Rahul-Anil
-Interview Questions:-
 
 1. What is MailChimp?
 2. If you don't want to send notification to the same user at the same time then what techniques will you use in mailchimp?
@@ -89,10 +79,6 @@ Interview Questions:-
 22. What is collections in laravel?
 
 
-Candidate Name: Ashish Nandankar
-Mukesh - Umesh
-Interview Questions:-
-
 1. Tell me about yourself and how long have you been working in neosoft?
 2. Tell me something about your project? 
 3. what is Middleware?
@@ -111,9 +97,6 @@ Interview Questions:-
 16. Give the some examples of bubble sort algorithm.
 17. What is Trait? 
 
-Candidate Name: Avadhut Vagare
-Rahul-Anil
-Interview Questions:-
 
 Request life cycle
 What is middleware?
@@ -131,10 +114,6 @@ Artisan commands you know about?
 Migration commands
 
 
-
-Candidate Name: Priyanka Deshmukh
-pranali - Umesh
-Interview Questions:-
 1.Introduce yourself?
 2.Routing in Codelgniter?
 3.How many routing files in laravel use of each?
@@ -148,10 +127,6 @@ Interview Questions:-
 12.Type of http request and explain each?
 13 Csrf token?
 14 Explain Project with Database ?
-
-Candidate Name: Priyanka Deshmukh
-Mukesh - Ramesh
-Interview Questions:-
 
 
 Tell me about yourself and how long have you been working in neosoft?
@@ -181,12 +156,6 @@ Basic auth in rest apis
 
 
 
-
-
-Candidate Name: Aniruth G
-Ashish Yadav
-
-Interview Questions:-
 1.where are you from
 2.have you worked on mumbai location
 3.tell about yourself
@@ -197,9 +166,8 @@ Interview Questions:-
 8.problem statement for pairs values form Array list and count number of paired values only
 9.problem statement for change nested object values of state from reactJS
 
-Candidate Name: Nainsi kumari
-Rahul
-Interview Questions:
+
+
 1)Tell me about your self and your project
 2)What is inheritance
 3)What is interface.
@@ -222,13 +190,6 @@ Interview Questions:
 
  
 
-
-
-
-Candidate Name: Santosh Shrma
-Javed-Nikunj
-
-Interview Questions:-
 1.Tell me about your self and your project details
 2.what is php and laravel.
 3.which version use in php with laravel 6.0.
@@ -257,9 +218,6 @@ Interview Questions:-
 26.what is differences between merge and pull and how to solve conflict.
 
 
-Candidate Name: Manjul Thapliyal
-Interviewer Name: Rahul
-
 Self Intro
 Which is better framework php or Laravel.
 What are the differences between laravel and Yii.
@@ -274,12 +232,6 @@ Request life cycle in laravel.
 
 
 
-
-
-
-
-Candidate Name : Shivaprasad Shirasangi 
-Interviewer Name : Vivek and Karan 
 
 1 . Shortly introduce yourself
 2.  Explain projects you have done
@@ -305,9 +257,7 @@ Interviewer Name : Vivek and Karan
 22. What are micro services ?
 23. Can we be able to Write a custom  service Provider ? and how ?
   
-Candidate Name: Prajakta Gadre
-Interviewer name: Javed-Nikunj
-Interview Questions:
+
 1.Project related questions.
 2.What is ORM?
 3.questions related to csrf.
@@ -329,20 +279,12 @@ Interview Questions:
 18 .Encryption & hashing
 
 
-Candidate Name : Avishkar shewale
-Interviewer Name : Vivek and Karan
-
 1) Self introduction
 2) How long have you been working in neosoft?
 3) Explain Project.
 4) Life cycle of Request in laravel.
 5) Program sorting array value without using built.
 
-
-
-
-Candidate Name : Khushaldas berva
-Interviewer Name : Mukesh and Ramesh
 
 
 Tell me about yourself and how long have you been working in neosoft?
@@ -397,8 +339,6 @@ Request life cycle of laravel
 Magic functions in php
 
 
-Candidate Name : Arpan Sharma
-Interviewer Name : Vivek and Karan
 
 1) Self introduction
 
@@ -430,12 +370,6 @@ It’s created
 
 
 
-
-
-
-Candidate Name : Ruturaj Nimbalkar
-Interviewer Name : Umesh-Rikhil
-
 1 .  Shortly introduce yourself
 2.   Explain the last  project you have done
 3.   Life cycle of Request in laravel
@@ -463,19 +397,6 @@ Interviewer Name : Umesh-Rikhil
 
 
 
-
-
-
-
-
-
-
-
-
-
-Candidate name:Tejaswini 
-Interviewer name : Javed-Nikunj
-
 1. which php and laravel version use.
 2. what is interface.
 3 what is trait and difference b/w traits and helper function.
@@ -495,10 +416,6 @@ Interviewer name : Javed-Nikunj
 
 
 
-
-
-Candidate name:Abhishek Singh 
-Interviewer name : Umesh Sagoria-Pranali
 
 
 1. Self introduction 
@@ -525,11 +442,6 @@ Interviewer name : Umesh Sagoria-Pranali
 
 
 
-Candidate Name: Alok vishwakarma
-Umesh Sagoria-Pranali
-
-Interview Questions:-
-
 Describe about yourself and what was role in your project.
 Tell about major practical achievement in your project
 What is PHP error  and how many types of error
@@ -541,16 +453,12 @@ What is migration in laravel
 What is composer in laravel
 Difference b/w require and include in PHP
 Difference b/w unset and unlink
-      12.	What is artisan in laravel
-      13. What is API and name how many type of API used
-      14. What is JWT and how it works
-      15.  What is web.php and api.php in laravel
+What is artisan in laravel
+What is API and name how many type of API used
+What is JWT and how it works
+What is web.php and api.php in laravel
  
 
-
-
-Candidate name: Augustin
-Interviewer name : Umesh & Anil
 
 1.self introduction
 2.laravel migration
@@ -576,8 +484,6 @@ Interviewer name : Umesh & Anil
 22.collection and type
 
 
-Candidate name:sabina Ansari
-Interviewer name : Javed-Nikunj
 
 1.Self introduction
 2.which type of project is done.
@@ -595,8 +501,6 @@ Interviewer name : Javed-Nikunj
 
 
 
-Candidate Name:- Vikas Salekar
-Interviewer name : Vivek-Mukesh
 1:- self Introduction
 2:- Question about regarding projects and which one is a better project in Carrere and why?
 3:- Difference between CodeIgniter and laravel and which one is best? and why?
@@ -628,9 +532,6 @@ install"?
 18:- what is Jwt and how it works?
 
 
-Candidate Name: Lalit Tiwari
-Interviewer name: Javed-Nikunj
-Interview Questions:
 Question 1  :  Tell me about your projects and roles and responsibilities
 Question 2  :  Overloading and OverRiding Question
 Question 5 :   What is indexing in SQL
@@ -652,8 +553,7 @@ Question 22: Eager Loading & Lazy Loading & how can we use it?
 Question 23: Scope variable in php?
 Question 23: Can you use static variable & method out of the class, if yes then how & if no then tell me reason?
 
-Candidate Name : Sibasankar Bhoi
-Interviewer Name : Umesh-
+
 
 1 .  Shortly introduce yourself
 2.   Details about last  project you have done
@@ -678,8 +578,6 @@ Interviewer Name : Umesh-
 21 facades
 
 
-Candidate Name : Kiran Deore
-Interviewer Name : Mukesh and Ramesh
 
 How to find the 3rd highest salary in mysql ?
 What is migration, how to migrate particular migration ?
