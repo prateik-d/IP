@@ -88,3 +88,22 @@ Margin vs Padding
 What are Pseudo class.
 Why do we use Sass, does the browser directly use it?
 Explain Box model.
+
+
+Throttling
+Imagine yourself as a 7-year-old toddler who loves to eat chocolate cake! Today your mom has made one, but it's not for you, it's for the guests! You, being spunky, keep on asking her for the cake. Finally, she gives you the cake. But, you keep on asking her for more. Annoyed, she agrees to give you more cake with a condition that you can have the cake only after an hour. Still, you keep on asking her for the cake, but now she ignores you. Finally, after an interval of one hour, you get more cake. If you ask for more, you will get it only after an hour, no matter how many times you ask her.
+
+This is what throttling is!
+
+Throttling is a technique in which, no matter how many times the user fires the event, the attached function will be executed only once in a given time interval.
+
+For instance, when a user clicks on a button, a helloWorld function is executed which prints Hello, world on the console. Now, when throttling is applied with 1000 milliseconds to this helloWorld function, no matter how many times the user clicks on the button, Hello, world will be printed only once in 1000 milliseconds. Throttling ensures that the function executes at a regular interval.
+
+
+
+Debouncing
+Consider the same cake example. This time you kept on asking your mom for the cake so many times that she got annoyed and told you that she will give you the cake only if you remain silent for one hour. This means you won’t get the cake if you keep on asking her continuously - you will only get it one hour after last time you ask, once you stop asking for the cake. This is debouncing.
+
+In the debouncing technique, no matter how many times the user fires the event, the attached function will be executed only after the specified time once the user stops firing the event.
+
+For instance, suppose a user is clicking a button 5 times in 100 milliseconds. Debouncing will not let any of these clicks execute the attached function. Once the user has stopped clicking, if debouncing time is 100 milliseconds, the attached function will be executed after 100 milliseconds. Thus, to a naked eye, debouncing behaves like grouping multiple events into one single event.
